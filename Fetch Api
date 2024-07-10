@@ -1,8 +1,8 @@
 Promessas:
   Fetch API retorna uma Promise que resolve para a resposta da requisição.
   As Promises permitem um código assíncrono mais legível e fácil de entender.
-                                  |
-                                  |___>  operação que pode ocorrer independentemente do fluxo principal do programa.
-                                  Em outras palavras, operações assíncronas permitem que um programa continue executando
-                                  outras tarefas enquanto aguarda a conclusão de uma operação específica.
-                              
+  > operação que pode ocorrer independentemente do fluxo principal do programa.
+                                              
+                                  
+
+
