@@ -1,3 +1,3 @@
-Codigo elementos prontos
-https://uiverse.io/patterns
+Codigo elementos prontos <br>
+https://uiverse.io/patterns <br>
 https://freefrontend.com/
